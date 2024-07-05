@@ -1,3 +1,4 @@
+This repository is for learning to code.
 - 👋 Hi, I’m @amgrimes199
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning coding
